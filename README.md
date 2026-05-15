@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Based%20in-India-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Studying-B.Tech%20AI-48CAD2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%94%AD%20Learning-Artificial%20Intelligence-A259FF?style=for-the-badge"/>
+<a href="https://smit-deoghare.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%94%97%20Portfolio-Visit-0EA5E9?style=for-the-badge"/>
+</a>
 
 <br/><br/>
 
@@ -45,6 +48,20 @@ class Smit:
     def hello(self):
         print("Thanks for dropping by — let's build something together! 🚀")
 ```
+
+---
+
+## 🌟 Portfolio
+
+<div align="center">
+
+Explore my work, case studies, and experiments here:
+
+<a href="https://smit-deoghare.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -153,6 +170,10 @@ class Smit:
 &nbsp;
 <a href="https://instagram.com/smit_v_d">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://smit-deoghare.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-See%20More-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
